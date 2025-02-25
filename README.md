@@ -71,8 +71,8 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## **📬 Contact**  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
-🔹 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+🔹 **GitHub:** [[Your GitHub Profile](https://github.com/your-username)  ](https://github.com/Shubhamnijhawanvit)
+🔹 **LinkedIn:** [[Your LinkedIn Profile](https://linkedin.com/in/your-profile)  ](https://www.linkedin.com/in/shubham-nijhawan/)
 
 ---
 
